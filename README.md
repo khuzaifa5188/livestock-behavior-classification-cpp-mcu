@@ -57,3 +57,22 @@ For behavior classification, accelerometer and gyroscope channels are the most u
 ## License
 
 See the upstream project license and data-use constraints before redistributing the recordings.
+
+## Edge Impulse Model Training
+
+We have successfully trained the TinyML behavior classification model using Edge Impulse. Below are the steps and visualizations from the Edge Impulse studio:
+
+### 1. Uploading the Data
+![Data Uploading](assets/upload%20the%20data.JPG)
+
+### 2. Spectral Features Analysis
+![Spectral Analysis](assets/spectral%20anaylisis.JPG)
+
+### 3. Feature Generation
+![Feature Generation](assets/2nd%20pic.JPG)
+
+### 4. Training the Neural Network Model
+![Training the Model](assets/trainig%20the%20model.JPG)
+
+### 5. Validation Results
+![Validation](assets/Not_clear.JPG)
