@@ -73,6 +73,3 @@ We have successfully trained the TinyML behavior classification model using Edge
 
 ### 4. Training the Neural Network Model
 ![Training the Model](assets/trainig%20the%20model.JPG)
-
-### 5. Validation Results
-![Validation](assets/Not_clear.JPG)
